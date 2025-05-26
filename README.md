@@ -1,2 +1,2 @@
 # STM32-USE-EXAMPLE
-This repository used to save stm32 using example.
+This project use i2c to Expand I/O  in PCAL6524.
